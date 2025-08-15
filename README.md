@@ -23,7 +23,14 @@ O que estou buscando?
 Estou em processo de aprendizado e meu objetivo é continuar me aprofundando em front-end e back-end, além de explorar novas tecnologias como inteligência artificial. Quero entender como tudo se conecta e como criar soluções que possam impactar positivamente o mundo ao meu redor.
 
 📫 Como entrar em contato?
+# Redes Sociais
 
-LinkedIn: www.linkedin.com/in/kamilly-sousa-aab999353
+<div>
+  <a href="www.linkedin.com/in/kamilly-sousa-aab999353" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-Email: kamilly.esteves.sousa@gmail.com
+  <a href="mailto:kamilly.esteves.sousa@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
