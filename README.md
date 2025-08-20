@@ -22,7 +22,6 @@ O que estou buscando?
 
 Estou em processo de aprendizado e meu objetivo é continuar me aprofundando em front-end e back-end, além de explorar novas tecnologias como inteligência artificial. Quero entender como tudo se conecta e como criar soluções que possam impactar positivamente o mundo ao meu redor.
 
-📫 Como entrar em contato?
 # Redes Sociais
 
 <div>
