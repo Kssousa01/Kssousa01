@@ -14,10 +14,6 @@ Tecnologias que estou explorando
 
 Linguagens: Python
 
-Ferramentas e Frameworks: Git, GitHub, Node.js, React
-
-Áreas de interesse: Desenvolvimento web, automação de tarefas, e-learning
-
 O que estou buscando?
 
 Estou em processo de aprendizado e meu objetivo é continuar me aprofundando em front-end e back-end, além de explorar novas tecnologias como inteligência artificial. Quero entender como tudo se conecta e como criar soluções que possam impactar positivamente o mundo ao meu redor.
